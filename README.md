@@ -7,4 +7,4 @@ Now I am using Azure Data Studio and because of that I compiled a few keyboard s
 - **(Ctrl + - )** For Zoom out.
 - **(Ctrl + 0)** For Zoom reset.
 #### Explain Button is missing
-
+![Enable Explain Button](https://github.com/CristianLefter/Azure-Data-Studio/blob/main/images/ads_explainbutton.gif)
